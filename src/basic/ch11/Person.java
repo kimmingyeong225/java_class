@@ -39,7 +39,7 @@ public class Person {
 	
 	//3. 자신의 주소값으 반환 시킬 수 있다.
 	public Person getPerson() {
-		// 자신에 주소값으 반환 시킨다.
+		// 자신에 주소값을 반환 시킨다.
 		return this;
 		
 	}
@@ -54,6 +54,8 @@ public class Person {
 		this.name = name;
 	}
 			
+	
+
 	
 	
 	

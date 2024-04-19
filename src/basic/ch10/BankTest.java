@@ -12,5 +12,5 @@ public class BankTest {
 		System.out.println("금액 + : " + getMoney);
 
 	}
-
+	
 }

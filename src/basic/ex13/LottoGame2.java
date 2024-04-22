@@ -52,25 +52,7 @@ public class LottoGame2 {
 		
 		
 		
-		/*if(gameNumber1 < gameNumber2) {
-			tempBox = 1;
-			
-			
-		}
-		if(gameNumber2 < gameNumber3 ) {
-			tempBox = 2;
-			return;
-			
-			
-		}
-		if(gameNumber3 == 3 ) {
-			tempBox = 3;
-			
-		}
-		if(gameNumber4 == 4 ) {
-			tempBox = 4;
-			
-		}*/
+		
 		
 		System.out.println(gameNumber1);
 		System.out.println(gameNumber2);

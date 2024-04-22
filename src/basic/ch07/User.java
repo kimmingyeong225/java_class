@@ -65,7 +65,7 @@ public class User {
 		}
 			
 			
-		}
+		
 		
 		/*olean user3Result3= user1.checkPassword("123");
 		System.out.println("user1 비밀번호 : "  +   user1Result);

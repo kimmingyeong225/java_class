@@ -16,4 +16,4 @@ public class CTest {
 
 	} // end of main 
 
-}
+} // end of class
